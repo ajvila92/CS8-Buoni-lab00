@@ -1,3 +1,4 @@
 # CS8-Buoni-lab00
 
-Not done
+Finished Lab 
+Practice with git
